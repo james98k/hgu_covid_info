@@ -10,6 +10,10 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<<<<<<< HEAD
 <h1>this is new branch</h1>
+=======
+<h1>development/backend</h1>
+>>>>>>> master
 </body>
 </html>
