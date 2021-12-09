@@ -13,7 +13,7 @@
 <<<<<<< HEAD
 <h1>this is new branch</h1>
 =======
-<h1>development/backend</h1>
+<h1>development/frontend</h1>
 >>>>>>> master
 </body>
 </html>
