@@ -41,7 +41,6 @@ public class HguColvidVO {
     public void setResidence_type(int residence_type) {
         this.residence_type = residence_type;
     }
-
     public String getConfirmed_date() {
         return confirmed_date;
     }
